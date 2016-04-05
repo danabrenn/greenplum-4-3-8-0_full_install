@@ -24,9 +24,9 @@ The scripts that get executed are:
 7. install_lab_data_on_mdw.sh -- copies files required for lab exercises to mdw ( including Greenplum Database & Command Center binary files )
 8. install_gpdb_and_gpcc_on_mdw.sh -- installs Greenplum Database and Command Center binaries on mdw
 9. install_gpdb_on_segments.sh -- exchange ssh keys for root,  install Greenplum Database on segment hosts, creates data storage areas on segments, sync system clocks
-10. run_system_verification_tests.sh -- resolve scheduler & readahead errors, run performance checks on all hostst
-11) initialize_gpdb.sh -- creates / starts an instance of Greenplum Database 4.3.8.0
-12) initialize_gpcc.sh -- creates / starts an instance of Greenplum Command Center 2.0.0
+10. run_system_verification_tests.sh -- resolve scheduler & readahead errors, run performance checks on all hosts
+11. initialize_gpdb.sh -- creates / starts an instance of Greenplum Database 4.3.8.0
+12. initialize_gpcc.sh -- creates / starts an instance of Greenplum Command Center 2.0.0
 13. unmount_vagrant.sh -- unmounts /vagrant directory
 
 This build DOES install / configure Greenplum 4.3.8.0 or Greenplum Command Center 2.0.0
