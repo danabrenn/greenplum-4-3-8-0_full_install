@@ -50,10 +50,10 @@ Building the Greenplum 4.3.8.0 Environment
 Execute the following commands in a terminal window:
 
 1. $ git init
-2. $ git clone https://github.com/danabrenn/greenplum-4-3-8-0_no_install.git
-3. $ cd greenplum-4-3-8-0_no_install
+2. $ git clone https://github.com/danabrenn/greenplum-4-3-8-0_full_install.git
+3. $ cd greenplum-4-3-8-0_full_install
 
-Unzip 'VM-Bits-4-3-8-0.7z' to the cloned directory 'greenplum-4-3-8-0_no_install'
+Unzip 'VM-Bits-4-3-8-0.7z' to the cloned directory 'greenplum-4-3-8-0_full_install'
 
 Execute the following command in a terminal window:
 
