@@ -6,7 +6,7 @@ echo "***** Installing Lab Files On sdw1 *****"
 cd /
 
 # all files & directories in the  /vagrant directory are mounted each vm
-# VM-Bits-4-3-4-0 contains all of the bits required to build a full GPDB 4.3.8.0
+# VM-Bits-4-3-8-0 contains all of the bits required to build a full GPDB 4.3.8.0
 # sandbox and perform all of the EMC GPDB lab exercises
 cd vagrant/VM-Bits-4-3-8-0
 
